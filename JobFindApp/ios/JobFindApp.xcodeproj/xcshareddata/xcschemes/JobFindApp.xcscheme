@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-               BuildableName = "JobFinderApp.app"
-               BlueprintName = "JobFinderApp"
-               ReferencedContainer = "container:JobFinderApp.xcodeproj">
+               BuildableName = "JobFindApp.app"
+               BlueprintName = "JobFindApp"
+               ReferencedContainer = "container:JobFindApp.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "00E356ED1AD99517003FC87E"
-               BuildableName = "JobFinderAppTests.xctest"
-               BlueprintName = "JobFinderAppTests"
-               ReferencedContainer = "container:JobFinderApp.xcodeproj">
+               BuildableName = "JobFindAppTests.xctest"
+               BlueprintName = "JobFindAppTests"
+               ReferencedContainer = "container:JobFindApp.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -55,9 +55,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "JobFinderApp.app"
-            BlueprintName = "JobFinderApp"
-            ReferencedContainer = "container:JobFinderApp.xcodeproj">
+            BuildableName = "JobFindApp.app"
+            BlueprintName = "JobFindApp"
+            ReferencedContainer = "container:JobFindApp.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </LaunchAction>
@@ -72,9 +72,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "JobFinderApp.app"
-            BlueprintName = "JobFinderApp"
-            ReferencedContainer = "container:JobFinderApp.xcodeproj">
+            BuildableName = "JobFindApp.app"
+            BlueprintName = "JobFindApp"
+            ReferencedContainer = "container:JobFindApp.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
